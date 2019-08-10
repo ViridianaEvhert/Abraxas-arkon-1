@@ -4,7 +4,7 @@ El algoritmo empleado para la predecir una de serie de tiempo fue Autoregression
 
 Para correr el algoritmo:
 
-1. DESCARGANDO EL ARCHIVO SCRIPT .PY Y EL ARCHIVO .CSV 
+1. DESCARGANDO EL ARCHIVO SCRIPT .PY Y EL ARCHIVO .CSV. CORRIENDO EN TERMINAL
 
 -Guardar py3_temp_vs_time.py en alguna carpeta junto con el dataset daily-min-temperatures.csv
 
